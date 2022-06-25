@@ -174,7 +174,7 @@ GEM
       no_proxy_fix
       octokit (~> 4.7)
       terminal-table (~> 1)
-    diffy (3.4.0)
+    diffy (3.4.2)
     docile (1.1.5)
     escape (0.0.4)
     ethon (0.14.0)
